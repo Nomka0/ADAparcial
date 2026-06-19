@@ -1,6 +1,6 @@
 # Parcial ADA - Soluciones HackerRank
 
-Este repositorio contiene las soluciones en python para dos problemas de HackerRank: **Pairs** y **Sherlock and the Valid String**.
+Este repositorio contiene las soluciones en python para dos problemas de HackerRank: **Pairs** y **Sherlock and the Valid String**. el informe está adjunto en la raíz del directorio.
 
 ---
 
