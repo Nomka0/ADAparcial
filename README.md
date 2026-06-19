@@ -30,7 +30,7 @@ Asegúrate de estar parado en la raíz del proyecto (`./parcialADA`) antes de ej
 Este programa calcula cuántos pares de números en un arreglo tienen una diferencia exacta de K.
 
 * **Comando de ejecución:**
-    python3 Pairs/main.py
+    `python3 Pairs/main.py`
 
 * **Ejemplo de uso en terminal:**
 
@@ -51,7 +51,7 @@ Este programa determina si una cadena de texto es válida bajo las condiciones d
 
 
 * **Comando de ejecución:**
-    python3 Sherlock/main.py
+    `python3 Sherlock/main.py`
 ```
 * **Ejemplo de uso en terminal:**
     Escribe una cadena de texto para probar:
