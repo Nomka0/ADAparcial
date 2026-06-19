@@ -26,20 +26,25 @@ def pairs(k, arr):
             contador_pares += 1
     return contador_pares
 
+# --- BLOQUE DE EJECUCIÓN INTERACTIVA ---
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    first_multiple_input = input().rstrip().split()
-
-    n = int(first_multiple_input[0])
-
-    k = int(first_multiple_input[1])
-
-    arr = list(map(int, input().rstrip().split()))
-
-    result = pairs(k, arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
-
+    print("--- Probando el problema PAIRS ---")
+    
+    try:
+        # se pide K (la diferencia objetivo)
+        k = int(input("Introduce el valor de la diferencia (K): "))
+        
+        # se pide la lista de números (arr)
+        entrada_usuario = input("Introduce los números del arreglo separados por espacios:\n")
+        
+        # convierte la cadena de texto en una lista de enteros
+        mi_arreglo = [int(x) for x in entrada_usuario.split()]
+        
+        # 3. Calculamos el resultado
+        resultado = pairs(k, mi_arreglo)
+        
+        print("\n--- Resultado ---")
+        print(f"Número de pares con diferencia {k}: {resultado}")
+        
+    except ValueError:
+        print("\n[Error] Por favor, introduce solo números enteros válidos.")
