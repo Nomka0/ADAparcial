@@ -9,7 +9,6 @@ Este repositorio contiene las soluciones en python para dos problemas de HackerR
 El proyecto está organizado de la siguiente manera:
 
 ```
-```
 .
 ├── Pairs
 │   ├── main.py       # Algoritmo de búsqueda de diferencias en tiempo O(N)
@@ -18,7 +17,6 @@ El proyecto está organizado de la siguiente manera:
 │   ├── main.py       # Algoritmo de validación de cadenas en tiempo O(N)
 │   └── README.md
 └── README.md         # Instrucciones generales (Este archivo)
-```
 ```
 ---
 
@@ -35,7 +33,7 @@ Este programa calcula cuántos pares de números en un arreglo tienen una difere
     python3 Pairs/main.py
 
 * **Ejemplo de uso en terminal:**
-```
+
 ```
     --- Probando el problema PAIRS ---
     Introduce el valor de la diferencia (K): 2
@@ -44,7 +42,6 @@ Este programa calcula cuántos pares de números en un arreglo tienen una difere
 
     --- Resultado ---
     Número de pares con diferencia 2: 3
-```
 ```
 ---
 
@@ -56,12 +53,10 @@ Este programa determina si una cadena de texto es válida bajo las condiciones d
 * **Comando de ejecución:**
     python3 Sherlock/main.py
 ```
-```
 * **Ejemplo de uso en terminal:**
     Escribe una cadena de texto para probar:
     aabbcc
     Resultado Sherlock: YES
-```
 ```
 ---
 
