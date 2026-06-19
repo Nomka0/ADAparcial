@@ -8,6 +8,8 @@ Este repositorio contiene las soluciones en python para dos problemas de HackerR
 
 El proyecto está organizado de la siguiente manera:
 
+```
+```
 .
 ├── Pairs
 │   ├── main.py       # Algoritmo de búsqueda de diferencias en tiempo O(N)
@@ -16,7 +18,8 @@ El proyecto está organizado de la siguiente manera:
 │   ├── main.py       # Algoritmo de validación de cadenas en tiempo O(N)
 │   └── README.md
 └── README.md         # Instrucciones generales (Este archivo)
-
+```
+```
 ---
 
 ## 🚀 Instrucciones de Ejecución
