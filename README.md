@@ -4,6 +4,9 @@ Este repositorio contiene las soluciones en python para dos problemas de HackerR
 
 ---
 
+## Video Explicativo. Complejidad computacional
+[!link video de youtube](https://youtu.be/K86xuK_7apA)
+
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
