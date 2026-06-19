@@ -60,13 +60,3 @@ Este programa determina si una cadena de texto es válida bajo las condiciones d
 ```
 ---
 
-## Resumen de Complejidad Computacional
-
-Ambas soluciones han sido optimizadas utilizando estructuras de dispersión (Hash Maps y Sets) para evitar soluciones de fuerza bruta de orden O(N^2), logrando pasar todos los casos de prueba de la plataforma:
-
-| Problema | Enfoque | Complejidad Temporal | Complejidad Espacial |
-| :--- | :--- | :---: | :---: |
-| **Pairs** | Hash Set | O(N) | O(N) |
-| **Sherlock** | Double Frequency Counter | O(N) | O(1) Espacio acotado por el alfabeto (26) |
-
----
