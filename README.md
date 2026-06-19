@@ -20,7 +20,7 @@ El proyecto está organizado de la siguiente manera:
 ```
 ---
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Ambos programas están diseñados para ser interactivos, lo que significa que se pueden probar con tus propios datos desde la terminal.
 
